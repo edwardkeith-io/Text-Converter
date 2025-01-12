@@ -1,4 +1,4 @@
-# text-converter
+# Text-Converter
 This short Python script will convert a raw `.txt` file to a structured `.csv`
 
 
